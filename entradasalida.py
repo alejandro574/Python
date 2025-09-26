@@ -1,0 +1,6 @@
+altura=input("Dime la altura: ")
+base =input("Dime la base: ")
+area=float(altura)*float(base)
+perimetro=2*(float(altura)+float(base))
+print("El area es: ", area)
+print("El perimetro es: ", perimetro)
