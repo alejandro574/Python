@@ -1,0 +1,6 @@
+numero1 = input ("Dime el primer numero: ")
+numero2 = input ("Dime el segundo numero: ")
+cociente = int (numero1) / int (numero2)
+resto = int (numero1) % int (numero2)
+print (numero1,"entre", numero2, "es: ", cociente)
+print ("El resto de la division es: ", resto)
