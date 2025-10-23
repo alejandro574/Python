@@ -1,4 +1,4 @@
 fecha = input("Dime tu fecha de nacimiento")
-partes = str(fecha).split("/")
+partes = fecha.split("/")
 print ("el dia es ", partes[0],"el mes es ", partes[1], "y el año es",partes[2])
 
