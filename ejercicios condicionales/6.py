@@ -9,4 +9,3 @@ if (sexo == "mujer" and nombre < "m") or (sexo == "hombre" and nombre  > "n"):
     print("Grupo A")
 else:
     print("Grupo B")
-    
