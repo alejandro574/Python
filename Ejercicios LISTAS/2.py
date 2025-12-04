@@ -1,2 +1,3 @@
 asignaturas = ["Matemáticas", "Física", "Química", "Historia", "Lengua"]
-print (asignaturas)
+for asignatura in asignaturas:
+    print("Yo estudio", asignatura)
