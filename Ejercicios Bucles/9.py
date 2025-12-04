@@ -1,7 +1,6 @@
 contraseña = "admin"
 while(True):
-    contraseña_usuario = input("Dime la contraseña: ")
-    if contraseña_usuario == contraseña:
+ a     if contraseña_usuario == contraseña:
         print("Contraseña correcta")
         break
     else:   
