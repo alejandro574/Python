@@ -4,5 +4,5 @@ posicion = 1
 for letra in abecedario:
     if posicion % 3 != 0:  
         resultado.append(letra)
-    posicion += 1
+    posicion+=1
 print(resultado)
