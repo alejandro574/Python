@@ -6,3 +6,5 @@ for asignatura in asignaturas:
         suspensas.append(asignatura)
 for asignatura in suspensas:
     print("tienes que repetir",asignatura)
+asignaturas.pop()
+print(asignaturas)
