@@ -12,6 +12,3 @@ if fruta1 in frutas:
     print("te va a costar",calculo)
 else:
     print("la fruta no está")
-    
-
-
